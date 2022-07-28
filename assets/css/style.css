@@ -161,7 +161,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: #ffffff;
   margin: 0 auto;
 }
 
@@ -178,7 +178,7 @@ a:hover {
   content: "";
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: #0077ff;
   width: 100px;
   bottom: -12px;
 }
@@ -216,7 +216,7 @@ a:hover {
   border-radius: 50%;
   line-height: 1.6;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #0078ff;
+  box-shadow: 0 0 0 3px #5d6f83;
   transition: all 500ms ease;
 }
 .socials .ico-circle:hover {
