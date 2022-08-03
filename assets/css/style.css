@@ -92,7 +92,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #ffffff;
 }
 
 .overlay-mf {
@@ -178,7 +178,7 @@ a:hover {
   content: "";
   position: absolute;
   height: 3px;
-  background-color: #0077ff;
+  background-color: #ff0000;
   width: 100px;
   bottom: -12px;
 }
@@ -220,7 +220,7 @@ a:hover {
   transition: all 500ms ease;
 }
 .socials .ico-circle:hover {
-  background-color: #0078ff;
+  background-color: #0077ff;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
@@ -237,7 +237,7 @@ a:hover {
   line-height: 2;
 }
 .list-ico span {
-  color: #0078ff;
+  color: #006de9;
   margin-right: 10px;
 }
 
@@ -290,7 +290,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #0078ff;
+  background-color: #0077ff;
   opacity: 0.7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -314,7 +314,7 @@ a:hover {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #0078ff;
+  background: #0077ff;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -403,7 +403,7 @@ a:hover {
 
 .button-a {
   text-decoration: none;
-  background-color: #0078ff;
+  background-color: #0077ff;
   color: #fff;
   border-color: #cde1f8;
 }
@@ -958,7 +958,7 @@ a:hover {
 }
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #0078ff;
+  color: #658dbb;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -1249,7 +1249,7 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #0078ff;
+  background-color: #0077ff;
   top: 20px;
 }
 
@@ -1259,8 +1259,8 @@ a:hover {
   transition: all 0.5s ease-in-out;
 }
 .sidebar-search .btn-search {
-  background-color: #0078ff;
-  border-color: #0078ff;
+  background-color: #050505;
+  border-color: #cfcfcf;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1268,7 +1268,7 @@ a:hover {
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #0078ff;
+  background-color: #0077ff;
   padding: 0.2rem 0.6rem;
   margin-bottom: 0.5rem;
   border-radius: 15px;
