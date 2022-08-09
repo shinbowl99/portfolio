@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shin Photography</title>
+    <style>
+        *{
+          margin:0px;
+          /* border:1px solid red; */
+        }
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+
+    .city {
+      width: 200px;
+    }
+
+    #menu {
+      width: 100vw;
+      height: 50px;
+      background-color: rgb(0, 0, 0);
+      padding-left: 30vw;
+      position: fixed;
+      top: 0;
+      left: 0;
+    }
+
+    #logo {
+      position: fixed;
+      width: 50px;
+      height: 50px;
+      z-index: 3000;
+      top: 0;
+      left: 0px;
+    }
+
+    li {
+      display: inline-block;
+      position: relative;
+      left: 35vw;
+      margin-left: 30px;
+      text-align: right;
+      line-height: 50px;
+      color: white;
+      z-index: 4000;
+    }
+
+    #merge {
+      display: flex;
+      margin-top: 50px;
+      flex-direction: column;
+      /* to make the elements aligned in a row or column */
+    }
+
+    #top,
+    #bottom {
+      display: flex;
+      margin: 20px;
+      flex-direction: row;
+    }
+
+    #text {
+      margin: 50px;
+    }
+
+    .city {
+      margin-right: 20px;
+    }
+
+    h2 {
+      margin-bottom: 20px;
+      color: gray;
+    }
+
+    li:hover {
+      color: lightcoral;
+      cursor: pointer;
+    }
+
+    a {
+      text-decoration: none;
+    }
+    #topheader{
+      width:600px;
+      height:600px;
+      /* border: 1px solid red; */
+      margin:0 auto;
+      text-align:center;
+    }
+    .alltogether{
+      margin: auto;
+      width:90vw;
+      height:900px;
+      text-align: center;
+    }
+    footer{
+      width:100vw;
+height:27px;
+position:fixed;
+background-color: rgb(0, 0, 0);
+bottom:0;
+left:0;
+line-height:30px;
+text-align:center;
+color:white;
+    }
+  </style>
+
+</head>
+
+<body>
+  <!--id is the name of this div element-->
+  <div id="container">
+    <img src="./images/logo.jpg" id="logo">
+    <ul id="menu">
+      <a href="index.html">
+        <li>HOME</li>
+      </a>
+      <a href="about.html">
+        <li>ABOUT</li>
+      </a>
+      <a href="contact.html">
+        <li>CONTACT</li>
+      </a>
+    </ul>
+    <div id="merge">
+      <div id="left">
+
+        </ul>
+        <!--class can have thesame names inside the same html file -->
+        <div id="topheader">  <img src="images/shin logo with circle .jpg" alt="home" class="Photography" height="300" width="550">
+       
+          <h2>CONTACT US <span> </span></h2>
+          <p>If you like to learn more or book a appointment with us,
+            </p>
+
+            <p>
+          please call us or visit us on one of our links down below.
+          </p>
+        </div>
+        
+          <div class="alltogether">
+
+            <img src="images/contact-us-gdd39e5c9d_1920.png" alt="home" class="Photography" height="200px">
+
+            
+</div>
+
+
+            <footer> SHIN STUDIOS(C) FOR EDUCATIONAL PURPOSES ONLY</footer>
+
+</body>
+</html>
