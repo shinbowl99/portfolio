@@ -532,7 +532,7 @@ a:hover {
   padding: 10px 20px;
   font-size: 14px;
   text-transform: none;
-  color: #4e4e4e;
+  color: #000000;
 }
 .navbar .dropdown ul a i {
   font-size: 12px;
@@ -623,7 +623,7 @@ a:hover {
 .navbar-mobile a, .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #4e4e4e;
+  color: #292929;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
   color: #0078ff;
@@ -720,7 +720,7 @@ a:hover {
 }
 .hero-single .breadcrumb {
   background-color: transparent;
-  color: #0078ff;
+  color: #000000;
 }
 .hero-single .breadcrumb .breadcrumb-item:before {
   color: #cde1f8;
@@ -753,17 +753,17 @@ a:hover {
 }
 
 .skill-mf span {
-  color: #4e4e4e;
+  color: #000000;
 }
 .skill-mf .progress {
-  background-color: #cde1f8;
+  background-color: rgb(241, 241, 241);
   margin: 0.5rem 0 1.2rem 0;
   border-radius: 0;
   height: 0.7rem;
 }
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #0078ff;
+  background-color: #0078ff
 }
 
 /*--------------------------------------------------------------
@@ -859,7 +859,7 @@ a:hover {
   padding: 2rem 3% 1rem 4%;
 }
 .work-content .w-more {
-  color: #4e4e4e;
+  color: #202020;
   font-size: 0.8rem;
 }
 .work-content .w-more .w-ctegory {
@@ -1132,7 +1132,7 @@ a:hover {
   margin-top: 0.6rem;
 }
 .card-blog .card-description {
-  color: #4e4e4e;
+  color: #505050;
 }
 .card-blog .post-author {
   display: inline-block;
@@ -1186,7 +1186,7 @@ a:hover {
   color: #0078ff;
 }
 .blog-wrapper .post-meta ul span {
-  color: #1e1e1e;
+  color: #1a1a1a;
 }
 .blog-wrapper .blockquote {
   border-left: 4px solid #0078ff;
@@ -1223,7 +1223,7 @@ a:hover {
   color: #0078ff;
 }
 .box-comments .list-comments span {
-  color: #1e1e1e;
+  color: #1a1a1a;
   font-style: italic;
 }
 .box-comments .comment-children {
